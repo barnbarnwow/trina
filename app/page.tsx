@@ -15,14 +15,14 @@ export default function Home() {
         </div>
         <div className="block md:basis-2/5">
           <h1 className="text-3xl font-bold my-3">
-            Welcome to my (Trina's) website!
+            Welcome to my (Trina&apos;s) website!
           </h1>
           <p className="my-3 text-lg">
-            Hi, I’m Trina—a hairstylist with a passion for helping people see
-            their own beauty. Whether it’s a bold new look or a subtle refresh,
-            I love creating styles that bring out confidence and joy. For me,
-            hair isn’t just about trends—it’s about transformation, empowerment,
-            and a little bit of fun along the way.
+            Hi, I&apos;m Trina—a hairstylist with a passion for helping people
+            see their own beauty. Whether it&apos;s a bold new look or a subtle
+            refresh, I love creating styles that bring out confidence and joy.
+            For me, hair isn&apos;t just about trends—it&apos;s about
+            transformation, empowerment, and a little bit of fun along the way.
           </p>
         </div>
       </main>

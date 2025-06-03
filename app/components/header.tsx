@@ -10,7 +10,7 @@ export default function Header() {
   return (
     <header className="m-4 md:p-4">
       <nav className="flex items-center justify-around">
-        <h1 className="text-2xl font-bold">Trina's Website</h1>
+        <h1 className="text-2xl font-bold">Trina&apos;s Website</h1>
 
         {/* Hamburger Icon */}
         <button
