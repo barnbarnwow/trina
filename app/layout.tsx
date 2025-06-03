@@ -4,10 +4,12 @@ import "./globals.css";
 
 const nunito = Nunito({
   variable: "--font-nunito",
+  subsets: ["latin"],
 });
 
 const playfair = Playfair_Display({
   variable: "--font-playfair",
+  subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
